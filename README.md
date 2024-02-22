@@ -1,7 +1,6 @@
-### Hi there 👋
 
+<a href="https://app.daily.dev/bazilnizam"><img src="https://api.daily.dev/devcards/v2/5JOAvoF9czqSzksDZZzJJ.png?type=default&r=inl" width="356" alt="Bazil Nizam's Dev Card"/></a>
 
-<a href="https://app.daily.dev/bazilnizam"><img src="https://api.daily.dev/devcards/v2/5JOAvoF9czqSzksDZZzJJ.png?type=wide&r=inl" width="652" alt="Bazil Nizam's Dev Card"/></a>
 <!--
 **BazilNizam/bazilnizam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
